@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### 📃 General Info
 
 - 💡 Area of interest: Artificial Intelligence
+- Bachelor's degree in Computer Science, currently following master's degree in Artificial Intelligence at University of Bucharest, Faculty of Mathematics and Computer Science
 - Games 🎮 - Anime 📺 - Rock 🎵
 - 📫 How to reach me: sasualex1@gmail.com
 
