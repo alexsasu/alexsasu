@@ -6,8 +6,8 @@
 
 ### 📃 General Info
 
-- Current area of interest: Artificial Intelligence
-- Bachelor's degree in Computer Science, master's degree in Artificial Intelligence, both acquired at University of Bucharest, Faculty of Mathematics and Computer Science
+- Current areas of interest: Artificial Intelligence, Data Science, Backend Development
+- B.Sc. in Computer Science, M.Sc. in Artificial Intelligence, both obtained at University of Bucharest, Faculty of Mathematics and Computer Science
 - Hobbies: Games 🎮 - Anime 📺 - Rock 🎵 - Gym 🏋️‍♂️
 - 📫 How to reach me: sasualex1@gmail.com
 
