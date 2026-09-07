@@ -1,4 +1,4 @@
-# Alexandru-Cristian Sasu
+# Alexandru Sasu
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexsasu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sasualex1@gmail.com)
@@ -11,12 +11,12 @@
 - Hobbies: Games 🎮 Anime 📺 Gym 🏋️‍♂️ Rock 🎵
 - 📫 How to reach me: sasualex1@gmail.com
 
-### 👨‍💻 Skills Highlights
+### 💻 Skills Highlights
 
 - Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning
 - Data Science
-- Web Dev. Backend: .NET
-- Databases: Oracle SQL, SQL Server
+- Web Dev. Backend (.NET)
+- Databases (SQL)
 - Object-Oriented Programming
 
 ### 📚 Tech Stack
